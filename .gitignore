@@ -6,3 +6,4 @@ __pycache__/
 GCN_and_GraphSAGE/data/
 Claude outputs/
 _to_delete_gitlock_stale
+/GAT/data
