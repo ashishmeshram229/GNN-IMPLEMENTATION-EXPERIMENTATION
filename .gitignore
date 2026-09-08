@@ -4,3 +4,5 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 GCN_and_GraphSAGE/data/
+Claude outputs/
+_to_delete_gitlock_stale
