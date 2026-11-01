@@ -1,4 +1,4 @@
-fold,train_months,test_month,candidates,positives
+fold,train,test,candidates,positives
 0,2021-05..2021-06,2021-07,12882,1079
 1,2021-05..2021-07,2021-08,12882,1239
 2,2021-05..2021-08,2021-09,12882,1541
